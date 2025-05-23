@@ -3,8 +3,6 @@ To view the analysis go to: Documentation/Questions with solutions.pdf
 
 Tableau: https://public.tableau.com/views/FluVaccinationsDashboard/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
 
-LinkedIn: https://www.linkedin.com/in/tanush-shetty/
-
 ## 📋 Introduction
 
 This document outlines a series of critical questions based on a healthcare dataset 📊. These questions are designed to cover significant business and healthcare aspects, crucial for healthcare agencies, hospitals, and medical professionals 💉. Answering these questions using SQL techniques and Tableau visualizations will provide valuable insights into patient demographics, healthcare utilization, costs, and the effectiveness of healthcare services.
