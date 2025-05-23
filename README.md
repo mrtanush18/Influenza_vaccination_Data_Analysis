@@ -1,7 +1,10 @@
 # 🏥 Influenza Vaccination Data Analysis using PostgreSQL and Tableau
 To view the analysis go to: Documentation/Questions with solutions.pdf
+
 Medium:
+
 Tableau: https://public.tableau.com/views/FluVaccinationsDashboard/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
+
 LinkedIn: https://www.linkedin.com/in/tanush-shetty/
 
 ## 📋 Introduction
