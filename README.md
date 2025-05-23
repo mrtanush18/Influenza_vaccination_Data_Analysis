@@ -8,7 +8,7 @@ Tableau: https://public.tableau.com/views/FluVaccinationsDashboard/Dashboard1?:l
 This document outlines a series of critical questions based on a healthcare dataset 📊. These questions are designed to cover significant business and healthcare aspects, crucial for healthcare agencies, hospitals, and medical professionals 💉. Answering these questions using SQL techniques and Tableau visualizations will provide valuable insights into patient demographics, healthcare utilization, costs, and the effectiveness of healthcare services.
 
 ## Tableau Output
-![Dashboard 1]([https://github.com/user-attachments/assets/1316c555-d0dd-4c60-9785-fce3f0f0c5f1](https://public.tableau.com/views/InfluenzaVaccinationsDashboard/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+![Dashboard 1](https://github.com/user-attachments/assets/6b986991-aded-4618-a4ad-1eb050c1239a)
 
 ## 📈 Analysis Questions
 
